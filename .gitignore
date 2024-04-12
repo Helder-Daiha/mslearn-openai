@@ -1,3 +1,4 @@
 bin
 obj
 ./Labfiles/02-azure-openai-api/Python/.env
+./Labfiles/03-prompt-engineering/Python/.env
